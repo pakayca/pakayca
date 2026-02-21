@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Ayça! 👋
 
-<!--
-**pakayca/pakayca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year Computer Engineering student focusing on Full-Stack Web and Mobile Development. I enjoy bridging the gap between clean user interfaces and solid backend database architectures.
 
-Here are some ideas to get you started:
+**🚀 Currently Working On**
+- Co-developing a cross-platform mobile application.
+- Deepening my knowledge in Operating Systems and CPU Scheduling algorithms.
+- Building and optimizing relational database architectures (RDBMS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Tech Stack**
+- **Languages:** JavaScript (ES6+), Python, Java, C, SQL
+- **Web & Mobile:** Node.js, Express.js, React Native, HTML5/CSS3
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git & GitHub, RESTful APIs, Postman
+
+**📫 Let's Connect**
+- **LinkedIn:** [https://www.linkedin.com/in/ayça-pak/]
+- **Website:** [https://ne-izlesem.com]
