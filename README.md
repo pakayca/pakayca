@@ -13,6 +13,6 @@ I am a 3rd-year Computer Engineering student focusing on Full-Stack Web and Mobi
 - **Databases:** MySQL, MongoDB, SQLite
 - **Tools:** Git & GitHub, RESTful APIs, Postman
 
-**📫 Let's Connect**
-- **LinkedIn:** [https://www.linkedin.com/in/ayça-pak/]
-- **Website:** [https://ne-izlesem.com]
+📫 Let's Connect
+- **LinkedIn:** [ayca-pak](https://www.linkedin.com/in/ayça-pak/)
+- **Website:** [ne-izlesem.com](https://ne-izlesem.com)
